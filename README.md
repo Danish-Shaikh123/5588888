@@ -38,17 +38,17 @@ Any command-line input or output is written as follows:
 
 
 You’ll need the following software:
-*Win32 Disk Imager 0.9.5 PuTTY
-*i2C-tools
-*WiringPi2 for Python
-*Node.js 4.5 or later
-*Node.js for Windows V7.3.0 or later
-*Python 2.7.x or Python 3.x
-*PHP MyAdmin Database
-*MySQL module
-*Create and account in Gmail so that you can get in APP Inventor
-*Android Studio and SDK modules
-*Arduino software
+* Win32 Disk Imager 0.9.5 PuTTY
+* i2C-tools
+* WiringPi2 for Python
+* Node.js 4.5 or later
+* Node.js for Windows V7.3.0 or later
+* Python 2.7.x or Python 3.x
+* PHP MyAdmin Database
+* MySQL module
+* Create and account in Gmail so that you can get in APP Inventor
+* Android Studio and SDK modules
+* Arduino software
 
 In the first chapters, we explain all the basics so you will have everything configured and will be able to use the Raspberry Pi Zero without any problems, so you can use it for the projects in this book. We will use some basic components, such as sensors, and move to more complex components in the rest of the book. On the software side, it is good if you actually have some existing programming skills, especially in JavaScript and in the Node.js framework. However, I will explain all the parts of each software piece of this book, so even if you don't have good programming skills in JavaScript you will be able to follow along.
 
